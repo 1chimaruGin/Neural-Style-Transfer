@@ -15,5 +15,5 @@ $ pip install argparse
 ```
 
 ## References
-Special thanks to amazing tutoiral creator
+Special thanks to amazing pytorch tutorial creator
 https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ
