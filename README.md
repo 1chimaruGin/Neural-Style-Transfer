@@ -7,9 +7,13 @@ $ pip install torch===1.5.1 torchvision===0.6.1 -f https://download.pytorch.org/
 ```
 
 ```
-$ pip install PIL
+$ pip install Pillow
 ```
 
 ```
 $ pip install argparse
 ```
+
+## References
+Special thanks to amazing pytorch tutorial creator
+https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ
