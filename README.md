@@ -16,4 +16,4 @@ $ pip install argparse
 
 ## Sample outputs
 
-[Image](images/nst.png)
+![Image](images/nst.png)
